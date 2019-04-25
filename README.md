@@ -1,0 +1,2 @@
+# MagicMirror
+Custom MagicMirror
